@@ -6,4 +6,4 @@ The time series has a high frequency (one data every 10 minutes) and concerns en
 
 Different models were compared for each approach with the aim of minimizing the **MAE** (Mean Absolute Error) for the month of December 2017. The best result was achieved by the ARIMA model with a MAE of around 1020. 
 
-In this repo you can find the code (**R** language), the report (in Italian) and the presentation slides. Moreover, the final predictions for the models are stored in the `Final Predictions.csv` file.
+In this repo you can find the code (**R** language), the report (in Italian) and the presentation slides. Moreover, the final predictions for the models are stored in the `Final predictions.csv` file.
